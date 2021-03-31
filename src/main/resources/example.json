@@ -24,5 +24,18 @@
     "seating":2,
     "chain": 2,
     "tyre":"tube"
+  },
+  {
+    "id":3,
+    "date":"05-2018",
+    "frame":"Aluminium",
+    "handlebar":"smooth",
+    "wheels":"steel",
+    "spokes":400,
+    "rim":200,
+    "tube":300,
+    "seating":1,
+    "chain":1,
+    "tyre":"tube"
   }
 ]
